@@ -1,0 +1,25 @@
+{
+  "roles": {
+    "team": "TEAM_ROLLEN_ID_HIER_EINTRAGEN",
+    "mod": "MOD_ROLLEN_ID_HIER_EINTRAGEN",
+    "azubi": "AZUBI_ROLLEN_ID_HIER_EINTRAGEN"
+  },
+  "channels": {
+    "modlog": "MODLOG_CHANNEL_ID",
+    "sendeplan": "SENDEPLAN_CHANNEL_ID",
+    "ankuendigung": "ANKUENDIGUNG_CHANNEL_ID",
+    "protokoll": "PROTOKOLL_CHANNEL_ID",
+    "jetztLaeuft": "JETZT_LAEUFT_CHANNEL_ID",
+    "ticketCategory": "TICKET_KATEGORIE_ID",
+    "bugReports": "BUG_CHANNEL_ID",
+    "ideen": "IDEEN_CHANNEL_ID",
+    "abwesenheit": "ABWESENHEIT_CHANNEL_ID"
+  },
+  "colors": {
+    "primary": "#F5A623",
+    "success": "#57F287",
+    "danger": "#ED4245",
+    "warning": "#FEE75C",
+    "info": "#5865F2"
+  }
+}

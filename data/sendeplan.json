@@ -1,0 +1,7 @@
+{
+  "eintraege": [
+    { "tag": "Montag", "zeit": "18:00 - 20:00", "sendung": "Late Night Talk", "moderator": "N.N." },
+    { "tag": "Mittwoch", "zeit": "20:00 - 22:00", "sendung": "Musikmix", "moderator": "N.N." },
+    { "tag": "Freitag", "zeit": "19:00 - 21:00", "sendung": "Wunschbox Live", "moderator": "N.N." }
+  ]
+}

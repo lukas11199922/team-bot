@@ -1,8 +1,8 @@
 {
   "roles": {
-    "team": "TEAM_ROLLEN_ID_HIER_EINTRAGEN",
-    "mod": "MOD_ROLLEN_ID_HIER_EINTRAGEN",
-    "azubi": "AZUBI_ROLLEN_ID_HIER_EINTRAGEN"
+    "team": "1527117231345893387",
+    "mod": "1527004159184867498",
+    "azubi": "1527004165237113043"
   },
   "channels": {
     "modlog": "MODLOG_CHANNEL_ID",

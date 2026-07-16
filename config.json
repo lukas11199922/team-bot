@@ -5,15 +5,15 @@
     "azubi": "1527004165237113043"
   },
   "channels": {
-    "modlog": "MODLOG_CHANNEL_ID",
-    "sendeplan": "SENDEPLAN_CHANNEL_ID",
-    "ankuendigung": "ANKUENDIGUNG_CHANNEL_ID",
-    "protokoll": "PROTOKOLL_CHANNEL_ID",
-    "jetztLaeuft": "JETZT_LAEUFT_CHANNEL_ID",
-    "ticketCategory": "TICKET_KATEGORIE_ID",
-    "bugReports": "BUG_CHANNEL_ID",
-    "ideen": "IDEEN_CHANNEL_ID",
-    "abwesenheit": "ABWESENHEIT_CHANNEL_ID"
+    "modlog": "1522998589666623573",
+    "sendeplan": "1527004246623387808",
+    "ankuendigung": "1527004186812612858",
+    "protokoll": "1527004292219801772",
+    "jetztLaeuft": "1527004228625891429",
+    "ticketCategory": "1527004314261000417",
+    "bugReports": "1527004318874734752",
+    "ideen": "1527004214495023144",
+    "abwesenheit": "1527120545605226517"
   },
   "colors": {
     "primary": "#F5A623",
